@@ -1,1 +1,1 @@
-print("cryptcore INSERT")
+print("cryptcore UPDATE")
